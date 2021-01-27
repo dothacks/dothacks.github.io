@@ -1,0 +1,22 @@
+body{
+margin: 0;
+padding: 0;
+}
+
+.black{
+height:500px;
+background: black;
+text-align:center;
+vertical-align: middle;
+/*margin: auto;*/
+/*position: relative;*/
+}
+
+.white{
+height:500px;
+background: white;
+text-align:center;
+vertical-align: middle;
+/*margin: auto;*/
+/*position: relative;*/
+}
